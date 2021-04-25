@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>LeetCode.Question13</StartupObject>
+    <StartupObject>LeetCode.Question14</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -52,6 +52,7 @@
     <Compile Include="Question11.cs" />
     <Compile Include="Question12.cs" />
     <Compile Include="Question13.cs" />
+    <Compile Include="Question14.cs" />
     <Compile Include="Question2.cs" />
     <Compile Include="Question3.cs" />
     <Compile Include="Question4.cs" />
